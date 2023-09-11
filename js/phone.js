@@ -85,4 +85,4 @@ const handleShowAll=()=>{
     handleSearch()
 }
 
-loadPhone()
+loadPhone();
